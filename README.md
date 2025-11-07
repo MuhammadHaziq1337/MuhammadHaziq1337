@@ -18,7 +18,7 @@
 
 ### 👨‍💻 About Me
 
-I am a Data Science enthusiast and AI Developer with 3 years of experience, focusing on data analytics, machine learning, and AI development. I am passionate about leveraging data to drive innovation and contribute to business growth.
+I am a Data Science enthusiast and AI Developer with 2 years of experience, focusing on data analytics, machine learning, and AI development. I am passionate about leveraging data to drive innovation and contribute to business growth.
 
 ---
 
